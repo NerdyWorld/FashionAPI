@@ -1606,9 +1606,457 @@ app.get("/gucci/women/:token", (req, res)=>{
               "sold": 0
             }
           ]
+        },
+        {
+          "name":"WOMEN'S GG SLINGBACK PUMP",
+          "brand": "Gucci",
+          "description":"The House's designs continue to play with expectations, bringing together diverse shapes and silhouettes to create hybrid pieces. Crafted from fuchsia mesh, an elegant GG crystal multicolor motif adds a contemporary feel to this pair of slide sandals.",
+          "specifications": "@Fuchsia GG crystal mesh @Women's @Leather sole @Back buckle closure @Mid-heel @3' heel height @Made in Italy @Please note the absence of crystals near the sole is a technical detail which contributes to the durability of the design.",
+          "categories":["Heels", "Women"],
+          "colors":["Fuchsia"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Fuchsia",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t1/t1-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t1/t1-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t1/t1-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t1/t1-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t1/t1-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t1/t1-6.avif"]
+            }
+          ],
+          "price": 1220,
+          "stock": [
+            {
+              "color": "Fuchsia",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S HIGH HEEL PUMP THIN",
+          "brand": "Gucci",
+          "description":"Subtle House details add a logo touch to this pair of high heel pumps. Crafted from pink leather, a Double G detail on the heel enhances the elegance of the style's classic silhouette.",
+          "specifications": "@Leather @Women's @Double G detail on heel @Pointed toe @Leather sole @High-heel @4.1' heel height @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Green", "Pink", "Black"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Green",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-green-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-green-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-green-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-green-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-green-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-green-6.avif"]
+            },
+            {
+              "color":"Pink",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-6.avif"]
+            },
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-black-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-black-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-black-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-black-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t2/t2-black-5.avif"]
+            }
+          ],
+          "price": 850,
+          "stock": [
+            {
+              "color": "Green",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "Pink",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S HIGH HEEL PUMP",
+          "brand": "Gucci",
+          "description":"The recognizable double ring and bar adds a decorative finish to this pair of leather high heel pumps. A nod to the House's equestrian past, the Horsebit has become both a historical and contemporary emblem throughout the years.",
+          "specifications": "@White leather @Women's @Horsebit @Leather sole @Buckle slingback closure @High-heel @4.7' heel with 1.4' platform @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Black", "Black", "White"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-black-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-black-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-black-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-black-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-black-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-black-5.avif"]
+            },
+            {
+              "color":"White",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-white-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-white-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-white-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-white-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-white-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-white-1.avif"]
+            },
+            {
+              "color":"Green",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t3/t3-6.avif"]
+            }
+          ],
+          "price": 1100,
+          "stock": [
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "White",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "Green",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S MID-HEEL SLINGBACK WITH HORSEBIT",
+          "brand": "Gucci",
+          "description":"A slingback pump with vintage accents such as a square shaped toe and sculpted block heel. A code from the archives, the Horsebit detail connects the style to the House's equestrian roots. The style is presented in light pink leather.",
+          "specifications": "@Leather @Women's @Horsebit detail @Sculpted block heel @Leather sole @Mid-heel @3' heel height @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Beige", "White"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Beige",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-6.avif"]
+            },
+            {
+              "color":"White",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-white-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-white-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-white-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-white-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-white-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t4/t4-white-6.avif"]
+            }
+          ],
+          "price": 920,
+          "stock": [
+            {
+              "color": "Beige",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S LACE-UP PUMPS",
+          "brand": "Gucci",
+          "description":"The House's designs continue to play with expectations, bringing together diverse shapes and silhouettes to create hybrid pieces. Crafted from fuchsia mesh, an elegant GG crystal multicolor motif adds a contemporary feel to this pair of slide sandals.",
+          "specifications": "@Fuchsia GG crystal mesh @Women's @Leather sole @Back buckle closure @Mid-heel @3' heel height @Made in Italy @Please note the absence of crystals near the sole is a technical detail which contributes to the durability of the design.",
+          "categories":["Heels", "Women"],
+          "colors":["Fuchsia", "Green", "Blue"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Fuchsia",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-6.avif"]
+            },
+            {
+              "color":"Green",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-green-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-green-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-green-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-green-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-green-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-green-6.avif"]
+            },
+            {
+              "color":"Blue",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-blue-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-blue-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-blue-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-blue-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-blue-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t5/t5-blue-6.avif"]
+            }
+          ],
+          "price": 850,
+          "stock": [
+            {
+              "color": "Fuchsia",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "Green",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "Blue",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S CROCODILE SLINGBACK",
+          "brand": "Gucci",
+          "description":"Each part of the House's history comes together to shape the latest collections as symbolic details are reinterpreted with a contemporary spirit. An emblem of Gucci's equestrian origins, the Horsebit defines this pair of slingback pumps. The shoe is presented in precious black crocodile with a square-toe and sculpted heel.",
+          "specifications": "@Black crocodile @Women's @Gold-toned hardware @Horsebit @Sculpted block heel @Leather sole @' heel height @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Black"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t6/t6-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t6/t6-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t6/t6-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t6/t6-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t6/t6-5.avif"]
+            }
+          ],
+          "price": 8000,
+          "stock": [
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S OPEN-TOE SANDAL",
+          "brand": "Gucci",
+          "description":"Introduced as part of Cruise 2023 Gucci Cosmogonie, black leather animates this pair of open-toe sandals. The gold-toned Interlocking G button on the front defines the model's v shaped silhouette.",
+          "specifications": "@Black leather @Women's @Gold-toned Interlocking G button hardware @Leather sole @Open toe @Adjustable ankle buckle closure @High-heel @3.7' heel height @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Black"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t7/t7-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t7/t7-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t7/t7-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t7/t7-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t7/t7-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t7/t7-6.avif"]
+            }
+          ],
+          "price": 980,
+          "stock": [
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S PLATFORM PUMP WITH GG STUDS",
+          "brand": "Gucci",
+          "description":"An elegant and whimsical women's pump, reflecting the latest collection, is defined by subtle yet impactful GG studs appliqué. Crafted in black leather, a spool heel completes the style.",
+          "specifications": "@Black leather @Women's @GG studs appliqué @Spool heel @Leather sole @Ankle closure with adjustable buckle @High-heel @4.5' heel height with 1.6' platform, based on a size 37(IT) @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Black"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t8/t8-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t8/t8-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t8/t8-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t8/t8-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t8/t8-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t8/t8-6.avif"]
+            }
+          ],
+          "price": 1350,
+          "stock": [
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S PETITE GG SLINGBACK PUMP",
+          "brand": "Gucci",
+          "description":"An elegant and whimsical women's pump, reflecting the latest collection, is defined by subtle yet impactful GG studs appliqué. Crafted in black leather, a spool heel completes the style.",
+          "specifications": "@Black leather @Women's @GG studs appliqué @Spool heel @Leather sole @Ankle closure with adjustable buckle @High-heel @4.5' heel height with 1.6' platform, based on a size 37(IT) @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Black", "Green", "White"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-black-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-black-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-black-3.webp", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-black-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-black-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-black-6.avif"]
+            },
+            {
+              "color":"Green",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-6.avif"]
+            },
+            {
+              "color":"White",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-white-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-white-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-white-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-white-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-white-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t9/t9-white-6.avif"]
+            }
+          ],
+          "price": 940,
+          "stock": [
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "White",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "Green",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S GG SLINGBACK PUMP SHORT",
+          "brand": "Gucci",
+          "description":"The Gucci Aria collection takes references from the archives of the '90s and early '2000s, with pieces inspired from Tom Ford's era in Gucci. The new idea of femininity shows glamorous details, such as lace, crystals and sheer fabrics. This pair of slingback shoes are presented in a light shade of rose mesh with a sparkling GG motif.",
+          "specifications": "@Women's @Tonal suede details @Leather sole @Back buckle closure @Low heel @1.4' heel height @Made in Italy @Please note the absence of crystals near the sole is a technical detail which contributes to the durability of the design.",
+          "categories":["Heels", "Women"],
+          "colors":["Blue", "LightPink", "Black"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Blue",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-blue-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-blue-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-blue-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-blue-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-blue-5.avif"]
+            },
+            {
+              "color":"LightPink",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-lp-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-lp-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-lp-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-lp-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-lp-5.avif"]
+            },
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-black-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-black-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-black-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-black-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t10/t10-black-5.avif"]
+            }
+          ],
+          "price": 1150,
+          "stock": [
+            {
+              "color": "Blue",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "LightPink",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S PYTHON PRINT PUMP",
+          "brand": "Gucci",
+          "description":"Contrast details play with shades and textures to bring a contemporary feel to classic designs. Crafted from leather with an allover python print, the animal motif is matched with a GG mesh insert detail.",
+          "specifications": "@Women's @GG mesh insert detail @Pointed toe @Leather sole @High-heel @4.1' heel height @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Pink", "Black"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Pink",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-pink-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-pink-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-pink-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-pink-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-pink-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-pink-6.avif"]
+            },
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-black-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-black-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-black-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-black-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-black-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t11/t11-black-6.avif"]
+            }
+          ],
+          "price": 940,
+          "stock": [
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            },
+            {
+              "color": "Pink",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S SLINGBACK PUMP WITH PLEATS",
+          "brand": "Gucci",
+          "description":"Further exploring formalwear with an unconventional approach, the Spring Summer 2023 collection looks at the concept of tailoring with a new lens. Inspired by Art Deco fashion, these slingback pumps feature intricate pleated leather toe cap on the shoe front, with a contrasting trim.",
+          "specifications": "@Red and black leather @Women's @Red trim @Pleated leather toe cap @Leather sole @Tapered heel @Elastic ankle strap closure @High-heel @3.7' heel height, based on a size 37 (IT) @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Red"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Red",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t12/t12-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t12/t12-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t12/t12-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t12/t12-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t12/t12-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t12/t12-6.avif"]
+            }
+          ],
+          "price": 1450,
+          "stock": [
+            {
+              "color": "Red",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S GUCCI BLONDIE PUMP",
+          "brand": "Gucci",
+          "description":"The Gucci Blondie first debuted along the star-studded Hollywood Boulevard in Los Angeles during Gucci Love Parade. The new line mirrors the mood found throughout the latest collection, bringing eras together by combining a retro aesthetic with a contemporary character. Taken straight from the '70s archives, the Founder's monogram defines this pair of GG Supreme mid-heel shoes.",
+          "specifications": "@Beige and ebony GG Supreme canvas @Women's @Gold-toned hardware @Brown leather trim @Round Interlocking G @Leather sole @Mid-heel @2.2' heel height @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Beige"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Beige",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t13/t13-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t13/t13-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t13/t13-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t13/t13-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t13/t13-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t13/t13-6.avif"]
+            }
+          ],
+          "price": 990,
+          "stock": [
+            {
+              "color": "Beige",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S PUMP WITH GG CANVAS",
+          "brand": "Gucci",
+          "description":"This pair of patent leather pumps are presented with a cut-out detail on the sides. Coordinating with a delicate fabric bow, the emblematic GG canvas appears at the front as a subtle logo detail.",
+          "specifications": "@Black patent leather @Women's @GG canvas trim @Bow detail @Leather sole @Cut-out detail @Block heel @1.7' heel height @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Black"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t14/t14-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t14/t14-2.webp", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t14/t14-3.webp", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t14/t14-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t14/t14-5.webp", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t14/t14-6.avif"]
+            }
+          ],
+          "price": 1120,
+          "stock": [
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
+        },
+        {
+          "name":"WOMEN'S STUDDED PUMP",
+          "brand": "Gucci",
+          "description":"Distinctive shapes brought to life by unexpected details, such as this women's pump defined by a curved silhouette and multi-buckle ankle straps. The studs and eyelet detailing lends a rock vibe to the style",
+          "specifications": "@Black leather @Women's @Studs and eyelets @Pointed toe @Leather sole @Multi-buckles closure @Mid-heel @3' heel height @Made in Italy",
+          "categories":["Heels", "Women"],
+          "colors":["Black"],
+          "sizes": ["35", "35.5", "36", "36.5", "37", "37.5", "38", "38.5", "39", "39.5"],
+          "images":[
+            {
+              "color":"Black",
+              "images": ["https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t15/t15-1.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t15/t15-2.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t15/t15-3.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t15/t15-4.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t15/t15-5.avif", "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Gucci/Nacho/Heels/t15/t15-6.avif"]
+            }
+          ],
+          "price": 2190,
+          "stock": [
+            {
+              "color": "Black",
+              "stock": 100,
+              "sold": 0
+            }
+          ]
         }
         // BAGS & SNEAKERS BARBIE COMPLETED
-        // ACCESORIES NACHO COMPLETED
+        // ACCESORIES & HEELS NACHO COMPLETED
     ])
   }else{
     res.staus(403).json({message: "Token not authorized"})
