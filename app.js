@@ -4587,7 +4587,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "Blue",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4615,7 +4615,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4643,7 +4643,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "pink",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4671,7 +4671,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4699,7 +4699,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4727,7 +4727,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4755,7 +4755,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "Blue",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4783,7 +4783,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "brown",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4811,7 +4811,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4839,7 +4839,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4867,7 +4867,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4895,7 +4895,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4923,7 +4923,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "gray",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4951,7 +4951,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -4979,7 +4979,7 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -5028,17 +5028,17 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -5087,17 +5087,17 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -5146,17 +5146,17 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "beige",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -5205,17 +5205,17 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "yellow",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "orange",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "pink",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -5264,17 +5264,17 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "yellow",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "orange",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "pink",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -5323,17 +5323,17 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "grey",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "beige",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -5381,17 +5381,17 @@ app.get("/dolce/women:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -8095,7 +8095,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Silver",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8124,7 +8124,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8153,7 +8153,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8182,7 +8182,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8211,7 +8211,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8240,7 +8240,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8269,7 +8269,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8298,7 +8298,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "#746e50",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8327,7 +8327,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8356,7 +8356,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "#fffce7",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8385,7 +8385,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8414,7 +8414,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "#fffce7",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8443,7 +8443,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8472,7 +8472,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8501,7 +8501,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8550,17 +8550,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8609,17 +8609,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8668,17 +8668,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "#fffce7",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8727,17 +8727,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "#fffce7",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8783,17 +8783,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8845,17 +8845,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8894,12 +8894,12 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8948,17 +8948,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "#746e50",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -8985,7 +8985,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9012,7 +9012,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9039,7 +9039,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9067,7 +9067,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9094,7 +9094,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9121,7 +9121,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9148,7 +9148,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9175,7 +9175,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9216,7 +9216,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9257,7 +9257,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9298,7 +9298,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9325,7 +9325,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9352,7 +9352,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9379,7 +9379,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9420,7 +9420,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9447,7 +9447,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9475,7 +9475,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9503,7 +9503,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9531,7 +9531,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9559,7 +9559,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9587,7 +9587,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9615,7 +9615,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9643,7 +9643,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9671,7 +9671,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9699,7 +9699,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9727,7 +9727,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9755,7 +9755,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "green",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9783,7 +9783,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Mint",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9811,7 +9811,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9839,13 +9839,13 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
       },
       {
-        "name": ": Fendi O’Lock Havana acetate sunglasses",
+        "name": "Fendi O’Lock Havana acetate sunglasses",
         "brand": "Fendi",
         "description": "Square O’Lock glasses in Havana acetate. Temples with gold-colored metal O’Lock and brown gradient lenses. Made in Italy",
         "specification": "@100% acetate",
@@ -9867,7 +9867,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9893,7 +9893,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9919,7 +9919,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9945,7 +9945,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9971,7 +9971,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -9998,7 +9998,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10025,7 +10025,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10050,7 +10050,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10076,7 +10076,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10102,7 +10102,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10128,7 +10128,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10168,17 +10168,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10203,7 +10203,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10229,7 +10229,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10255,7 +10255,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10282,7 +10282,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10308,7 +10308,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10334,7 +10334,7 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10372,17 +10372,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Silver",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -10422,17 +10422,17 @@ app.get("/fendi/women/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -11898,17 +11898,17 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -11957,17 +11957,17 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Lilac",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -11997,7 +11997,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12026,7 +12026,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12056,7 +12056,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12086,7 +12086,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12115,7 +12115,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12144,7 +12144,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12172,7 +12172,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12212,12 +12212,12 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12246,7 +12246,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12275,7 +12275,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12315,12 +12315,12 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12369,17 +12369,17 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Green",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12426,7 +12426,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12473,7 +12473,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12520,7 +12520,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12567,7 +12567,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12613,7 +12613,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12660,7 +12660,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12707,7 +12707,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12754,7 +12754,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12801,7 +12801,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12848,7 +12848,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12904,12 +12904,12 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -12955,7 +12955,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13001,7 +13001,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13047,7 +13047,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13094,7 +13094,7 @@ app.get("/fendi/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13149,7 +13149,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13193,7 +13193,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13237,7 +13237,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13281,7 +13281,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "#1560bd",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13325,7 +13325,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "#C4A484",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13369,7 +13369,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13413,7 +13413,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13457,7 +13457,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13501,7 +13501,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13545,7 +13545,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13589,7 +13589,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13633,7 +13633,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13677,7 +13677,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13721,7 +13721,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13774,12 +13774,12 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13823,7 +13823,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13862,12 +13862,12 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Green",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13895,7 +13895,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13923,7 +13923,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13951,7 +13951,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "#e7dbcb",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -13980,7 +13980,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14009,7 +14009,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Red",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14037,7 +14037,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14065,7 +14065,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14093,7 +14093,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14122,7 +14122,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Green",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14151,7 +14151,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14180,7 +14180,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14209,7 +14209,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14238,7 +14238,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14267,7 +14267,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14296,7 +14296,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14325,7 +14325,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -14354,7 +14354,7 @@ app.get("/dolce/man/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -17587,7 +17587,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "Blue",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17615,7 +17615,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17643,7 +17643,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "pink",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17671,7 +17671,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17699,7 +17699,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17727,7 +17727,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17755,7 +17755,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "Blue",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17783,7 +17783,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "brown",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17811,7 +17811,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17839,7 +17839,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17867,7 +17867,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17895,7 +17895,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17923,7 +17923,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "gray",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17951,7 +17951,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -17979,7 +17979,7 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -18028,17 +18028,17 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -18087,17 +18087,17 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -18146,17 +18146,17 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "beige",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -18205,17 +18205,17 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "yellow",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "orange",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "pink",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -18264,17 +18264,17 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "yellow",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "orange",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "pink",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -18323,17 +18323,17 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "grey",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "beige",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -18381,17 +18381,17 @@ app.get("/all/:token", (req, res)=>{
     "stock": [
       {
         "color": "white",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "black",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       },
       {
         "color": "red",
-        "stock": "100",
+        "stock": 100,
         "sold": 0
       }
     ]
@@ -21070,7 +21070,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Silver",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21099,7 +21099,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21128,7 +21128,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21157,7 +21157,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21186,7 +21186,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21215,7 +21215,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21244,7 +21244,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21273,7 +21273,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "#746e50",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21302,7 +21302,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21331,7 +21331,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "#fffce7",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21360,7 +21360,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21389,7 +21389,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "#fffce7",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21418,7 +21418,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21447,7 +21447,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21476,7 +21476,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21525,17 +21525,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21584,17 +21584,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21643,17 +21643,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "#fffce7",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21702,17 +21702,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "#fffce7",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21758,17 +21758,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21820,17 +21820,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21869,12 +21869,12 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21923,17 +21923,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "#746e50",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21960,7 +21960,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -21987,7 +21987,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22014,7 +22014,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22042,7 +22042,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22069,7 +22069,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22096,7 +22096,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22123,7 +22123,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22150,7 +22150,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22191,7 +22191,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22232,7 +22232,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22273,7 +22273,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22300,7 +22300,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22327,7 +22327,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22354,7 +22354,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22395,7 +22395,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22422,7 +22422,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22450,7 +22450,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22478,7 +22478,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22506,7 +22506,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22534,7 +22534,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22562,7 +22562,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22590,7 +22590,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22618,7 +22618,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22646,7 +22646,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22674,7 +22674,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22702,7 +22702,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22730,7 +22730,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "green",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22758,7 +22758,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Mint",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22786,7 +22786,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22814,13 +22814,13 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
       },
       {
-        "name": ": Fendi O’Lock Havana acetate sunglasses",
+        "name": "Fendi O’Lock Havana acetate sunglasses",
         "brand": "Fendi",
         "description": "Square O’Lock glasses in Havana acetate. Temples with gold-colored metal O’Lock and brown gradient lenses. Made in Italy",
         "specification": "@100% acetate",
@@ -22842,7 +22842,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22868,7 +22868,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22894,7 +22894,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22920,7 +22920,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22946,7 +22946,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -22973,7 +22973,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23000,7 +23000,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23025,7 +23025,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23051,7 +23051,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23077,7 +23077,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23103,7 +23103,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23143,17 +23143,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23178,7 +23178,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23204,7 +23204,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23230,7 +23230,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23257,7 +23257,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23283,7 +23283,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23309,7 +23309,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23347,17 +23347,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Gold",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Silver",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -23397,17 +23397,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Pink",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -24836,17 +24836,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "White",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -24895,17 +24895,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Lilac",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -24935,7 +24935,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -24964,7 +24964,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -24994,7 +24994,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25024,7 +25024,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25053,7 +25053,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25082,7 +25082,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25110,7 +25110,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25150,12 +25150,12 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25184,7 +25184,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25213,7 +25213,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25253,12 +25253,12 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25307,17 +25307,17 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Green",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25364,7 +25364,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25411,7 +25411,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25458,7 +25458,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25505,7 +25505,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25551,7 +25551,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25598,7 +25598,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25645,7 +25645,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25692,7 +25692,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25739,7 +25739,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25786,7 +25786,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Blue",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25842,12 +25842,12 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25893,7 +25893,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25939,7 +25939,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -25985,7 +25985,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26032,7 +26032,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26077,7 +26077,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26121,7 +26121,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26165,7 +26165,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26209,7 +26209,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "#1560bd",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26253,7 +26253,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "#C4A484",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26297,7 +26297,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26341,7 +26341,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26385,7 +26385,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Grey",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26429,7 +26429,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26473,7 +26473,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26517,7 +26517,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26561,7 +26561,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26605,7 +26605,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26649,7 +26649,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26702,12 +26702,12 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26751,7 +26751,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26790,12 +26790,12 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Green",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           },
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26823,7 +26823,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26851,7 +26851,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26879,7 +26879,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "#e7dbcb",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26908,7 +26908,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26937,7 +26937,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Red",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26965,7 +26965,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -26993,7 +26993,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27021,7 +27021,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27050,7 +27050,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Green",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27079,7 +27079,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27108,7 +27108,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Beige",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27137,7 +27137,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Brown",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27166,7 +27166,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27195,7 +27195,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27224,7 +27224,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27253,7 +27253,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -27282,7 +27282,7 @@ app.get("/all/:token", (req, res)=>{
         "stock": [
           {
             "color": "Black",
-            "stock": "100",
+            "stock": 100,
             "sold": 0
           }
         ]
@@ -29353,7 +29353,7 @@ app.get("/all/:token", (req, res)=>{
           ]
         },
         {
-          "name":"'GUCCI' LEATHER BRACELET",
+          "name": "GUCCI LEATHER BRACELET",
           "brand": "Gucci",
           "description":"Spelled out in metal letters, the name of the House boldly defines this leather bracelet. The recognizable script decorates a number of accessories and ready-to wear pieces, imbuing the narrative with a distinct logo feel.",
           "specifications": "@Pink leather @Palladium metal @Gucci charm @Adjustable buckle closure @Length: 8.1' @Lettering: .4' @Made in Italy @Gucci guarantees, internally and within its supply chain, respect for standards of Social & Environmental Responsibility in line with its sustainability strategy.",
