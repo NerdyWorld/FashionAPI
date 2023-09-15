@@ -3529,7 +3529,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The LV Stellar bracelet demonstrates the innovative design that can be seen across the Spring-Summer 2023 fashion jewelry collection. The centerpiece is an LV Circle presented in a three-dimensional effect that creates a sense of movement. An adjustable chain complete with a small charm completes this polished metal piece. ",
       "specifications":"@length: 8.7 in/22 cm adjustable, @5.9 in/15 cm, @@LV Circle, @Metal with gold-color finish, @Clasp closure" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Gold" ],
       "sizes": ["Default"],
       "images":[
@@ -3552,7 +3552,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"Sharp angles give this version of the LV Twiggy bracelet a contemporary edge. The focal point of the design is an interpretation of the House's pointed Monogram Flower, which recalls the tri-flower buckle of the coordinating LV Twiggy belt. ",
       "specifications":"@Length: 6.1 in/15.5 cm adjustable, @8.5 in/21.5 cm, @Metal with gold-color finish, @Monogram Flower, @LV Circle charms, @Clasp closure",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Gold"],
       "sizes": ["Default"],
       "images":[
@@ -3575,7 +3575,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"Characterized by iconic Monogram canvas and gold-color metal trunk studs, the LV Circle reversible bracelet pays homage to Louis Vuitton's history. Smooth and refined calf leather, along with a metallic clasp, creates a polished look. An LV Circle engraved on the front adds a final House hallmark to this design.",
       "specifications":"@Metal with gold-color finish, @Black calf leather recto side, @Monogram canvas verso side, @LV Circle" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Black" ],
       "sizes": ["Default"],
       "images":[
@@ -3598,7 +3598,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The Pillow Nanogram bracelet features the Nanogram pattern carefully engraved into the finished metal. With a rigid bangle style, this piece of jewelry opens and closes using a hinged fastening. The elevated item takes inspiration from the Coussin handbag and its puffy texture, which is embossed with the House's Monogram pattern.",
       "specifications":"@Metal with silver-color finish, @Nanogram pattern, @Louis Vuitton signature engraving",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Silver"],
       "sizes": ["Default"],
       "images":[
@@ -3621,7 +3621,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The LV Clic It Fun and Sun bracelet features two strands of supple, braided leather. This accessory has a functional clasp that displays the LV Initials, as well as Monogram Flower accents that secure the braiding.",
       "specifications":"@Leather, @Gold-color hardware, @LV Circle on clasp, @Monogram Flower motif",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Pink"],
       "sizes": ["Default"],
       "images":[
@@ -3644,7 +3644,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The oversized LV Uptown bucket hat is styled in an on-trend, ultra-contemporary material: blue denim. A giant Monogram Flower in natural cowhide adds a distinctive House touch, heightened by refined details like an all-silk lining and leather piping on the brim. A comfortable, user-friendly hat, and a fun way to wear the Monogram signature.",
       "specifications":"@Denim Blue, @100% cotton, @100% silk lining, @Natural cowhide piping, @Embroidered natural cowhide Monogram Flower patch" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Blue"],
       "sizes": ["Default"],
       "images":[
@@ -3667,7 +3667,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"Stylish and versatile, the reversible Dailygram bucket hat is sure to become an everyday essential. One side features a tone-on-tone XXL Monogram jacquard weave for a contemporary signature look. Turned inside out, it reveals a gold embroidered Louis Vuitton signature for a more classic feminine effect. Natural cowhide piping adds a luxurious finishing touch.",
       "specifications":"@100% cotton, @Reversible, @Monogram jacquard weave, @Natural cowhide piping, @Embroidered Louis Vuitton signature, @Metal eyelets" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Black" ],
       "sizes": ["Default"],
       "images":[
@@ -3690,7 +3690,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"Part of the Louis Vuitton x Yayoi Kusama collection, the LV x YK reversible Infinity Dots bucket hat offers two stylish options in one. One side is printed with the Japanese artist's iconic dots motif for an eye-catching look, while the other comes in a tonal Monogram jacquard weave for a more understated effect. This versatile piece in pure cotton is finished with refined leather piping.",
       "specifications":"@100% cotton, @Printed dots recto side, @Monogram jacquard weave verso side, @Leather piping, @Leather tag with rivet, @Clean by specialist only",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Black" ],
       "sizes": ["Default"],
       "images":[
@@ -3713,7 +3713,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"With its broad openwork brim and dome-shaped crown, the Oceanview summer hat emanates fresh sophistication. In keeping with the House’s expert know-how and stringent quality standards, each one is hand-woven in Ecuador from carefully selected natural palm fibers, then finished in Italy. For the final touch, an embroidered textile band adds an elegant signature.",
       "specifications":"@Natural color, @Natural palm fiber, @Cotton trim, @Textile band with embroidered @LV Circle and Monogram Flower motifs, @Textile logo on top",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["White" ],
       "sizes": ["Default"],
       "images":[
@@ -3736,7 +3736,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The LV x YK Infinity Dots beanie comes in pure cashmere for exceptional warmth and softness. Part of the Louis Vuitton x Yayoi Kusama collection, it is signed with an LV Initials accessory decorated with the Japanese artist's iconic recurring dots. At once practical and fashionable, this cozy hat will add a touch of color and creativity to any silhouette.",
       "specifications":"@100% cashmere, @LV Initials signature with dots, @Dry clean only" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Yellow"],
       "sizes": ["Default"],
       "images":[
@@ -3759,7 +3759,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"the LV Croisière hat is a standout in the House’s summer offerings: an openwork crochet bucket hat painstakingly embroidered with Monogram Flowers. Crafted in fine cotton, it keeps the head cool and adds a sophisticated touch to a summer outfit. And it’s a fun way to sport the Louis Vuitton signature.",
       "specifications":"@LV Logo on the top, @100% cotton, @Fully embroidered Monogram Flowers" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Blue" ],
       "sizes": ["Default"],
       "images":[
@@ -3782,7 +3782,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The Beachview Visor offers sophisticated protection from the summer sun. It is styled in raffia-look fabric adorned with Monogram Flowers, plus natural cowhide piping around the brim for a refined crafted touch. Cool and comfortable worn by itself, it can be combined with a silk bandeau slipped through the cowhide loops for a more sophisticated effect.",
       "specifications":"@52% viscose, @48% cotton, Default, @Natural cowhide piping, @Natural cowhide loops, @Louis Vuitton signature on the headband, @Monogram @Flowers on the brim, @Elastic band in the back" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Brown" ],
       "sizes": ["Default"],
       "images":[
@@ -3805,7 +3805,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The LV Day cap elevates a casual look with superb craftsmanship. An embroidered Monogram Diamond with bouclette detailing makes for an eye-catching centerpiece, while Monogram jacquard adds a layer of richness. The youthful hat is composed of mixed materials, including breathable cotton and smooth leather.",
       "specifications":"@Ecru White, @100% cotton, @Silk lining, @Lambskin, @Monogram jacquard, @Embroidered patch, @Dry clean only" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["White" ],
       "sizes": ["Default"],
       "images":[
@@ -3828,7 +3828,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The Gold Lagoon edition of the Tambour Street Diver Watch brings the precious touch of 18-karat pink gold to this sporty, feminine dive watch. The glossy white-lacquered dial features luminescent indexes and golden polished hands. Set on a modern white rubber strap, this casual yet sophisticated piece is the ideal complement to any off-duty outfit.",
       "specifications":"@High precision quartz movement, @Functions: hours, minutes, seconds" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Silver"],
       "sizes": ["Default"],
       "images":[
@@ -3851,7 +3851,7 @@ app.get("/lv/women/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"This Pacific White model brings a feminine touch to the versatile Tambour Street Diver range. Casual and sporty, it combines traditional dive watch functions with the colourful, creative and unconventional style unique to Louis Vuitton. Its bright colours, contrasting finish and luminescent indexes will add a modern twist to any outfit.",
       "specifications":"@High precision quartz movement, @Functions: hours, minutes, seconds" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Silver" ],
       "sizes": ["Default"],
       "images":[
@@ -16542,7 +16542,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The LV Stellar bracelet demonstrates the innovative design that can be seen across the Spring-Summer 2023 fashion jewelry collection. The centerpiece is an LV Circle presented in a three-dimensional effect that creates a sense of movement. An adjustable chain complete with a small charm completes this polished metal piece. ",
       "specifications":"@length: 8.7 in/22 cm adjustable, @5.9 in/15 cm, @@LV Circle, @Metal with gold-color finish, @Clasp closure" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Gold" ],
       "sizes": ["Default"],
       "images":[
@@ -16565,7 +16565,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"Sharp angles give this version of the LV Twiggy bracelet a contemporary edge. The focal point of the design is an interpretation of the House's pointed Monogram Flower, which recalls the tri-flower buckle of the coordinating LV Twiggy belt. ",
       "specifications":"@Length: 6.1 in/15.5 cm adjustable, @8.5 in/21.5 cm, @Metal with gold-color finish, @Monogram Flower, @LV Circle charms, @Clasp closure",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Gold"],
       "sizes": ["Default"],
       "images":[
@@ -16588,7 +16588,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"Characterized by iconic Monogram canvas and gold-color metal trunk studs, the LV Circle reversible bracelet pays homage to Louis Vuitton's history. Smooth and refined calf leather, along with a metallic clasp, creates a polished look. An LV Circle engraved on the front adds a final House hallmark to this design.",
       "specifications":"@Metal with gold-color finish, @Black calf leather recto side, @Monogram canvas verso side, @LV Circle" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Black" ],
       "sizes": ["Default"],
       "images":[
@@ -16611,7 +16611,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The Pillow Nanogram bracelet features the Nanogram pattern carefully engraved into the finished metal. With a rigid bangle style, this piece of jewelry opens and closes using a hinged fastening. The elevated item takes inspiration from the Coussin handbag and its puffy texture, which is embossed with the House's Monogram pattern.",
       "specifications":"@Metal with silver-color finish, @Nanogram pattern, @Louis Vuitton signature engraving",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Silver"],
       "sizes": ["Default"],
       "images":[
@@ -16634,7 +16634,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The LV Clic It Fun and Sun bracelet features two strands of supple, braided leather. This accessory has a functional clasp that displays the LV Initials, as well as Monogram Flower accents that secure the braiding.",
       "specifications":"@Leather, @Gold-color hardware, @LV Circle on clasp, @Monogram Flower motif",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Pink"],
       "sizes": ["Default"],
       "images":[
@@ -16657,7 +16657,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The oversized LV Uptown bucket hat is styled in an on-trend, ultra-contemporary material: blue denim. A giant Monogram Flower in natural cowhide adds a distinctive House touch, heightened by refined details like an all-silk lining and leather piping on the brim. A comfortable, user-friendly hat, and a fun way to wear the Monogram signature.",
       "specifications":"@Denim Blue, @100% cotton, @100% silk lining, @Natural cowhide piping, @Embroidered natural cowhide Monogram Flower patch" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Blue"],
       "sizes": ["Default"],
       "images":[
@@ -16680,7 +16680,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"Stylish and versatile, the reversible Dailygram bucket hat is sure to become an everyday essential. One side features a tone-on-tone XXL Monogram jacquard weave for a contemporary signature look. Turned inside out, it reveals a gold embroidered Louis Vuitton signature for a more classic feminine effect. Natural cowhide piping adds a luxurious finishing touch.",
       "specifications":"@100% cotton, @Reversible, @Monogram jacquard weave, @Natural cowhide piping, @Embroidered Louis Vuitton signature, @Metal eyelets" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Black" ],
       "sizes": ["Default"],
       "images":[
@@ -16703,7 +16703,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"Part of the Louis Vuitton x Yayoi Kusama collection, the LV x YK reversible Infinity Dots bucket hat offers two stylish options in one. One side is printed with the Japanese artist's iconic dots motif for an eye-catching look, while the other comes in a tonal Monogram jacquard weave for a more understated effect. This versatile piece in pure cotton is finished with refined leather piping.",
       "specifications":"@100% cotton, @Printed dots recto side, @Monogram jacquard weave verso side, @Leather piping, @Leather tag with rivet, @Clean by specialist only",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Black" ],
       "sizes": ["Default"],
       "images":[
@@ -16726,7 +16726,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"With its broad openwork brim and dome-shaped crown, the Oceanview summer hat emanates fresh sophistication. In keeping with the House’s expert know-how and stringent quality standards, each one is hand-woven in Ecuador from carefully selected natural palm fibers, then finished in Italy. For the final touch, an embroidered textile band adds an elegant signature.",
       "specifications":"@Natural color, @Natural palm fiber, @Cotton trim, @Textile band with embroidered @LV Circle and Monogram Flower motifs, @Textile logo on top",
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["White" ],
       "sizes": ["Default"],
       "images":[
@@ -16749,7 +16749,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The LV x YK Infinity Dots beanie comes in pure cashmere for exceptional warmth and softness. Part of the Louis Vuitton x Yayoi Kusama collection, it is signed with an LV Initials accessory decorated with the Japanese artist's iconic recurring dots. At once practical and fashionable, this cozy hat will add a touch of color and creativity to any silhouette.",
       "specifications":"@100% cashmere, @LV Initials signature with dots, @Dry clean only" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Yellow"],
       "sizes": ["Default"],
       "images":[
@@ -16772,7 +16772,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"the LV Croisière hat is a standout in the House’s summer offerings: an openwork crochet bucket hat painstakingly embroidered with Monogram Flowers. Crafted in fine cotton, it keeps the head cool and adds a sophisticated touch to a summer outfit. And it’s a fun way to sport the Louis Vuitton signature.",
       "specifications":"@LV Logo on the top, @100% cotton, @Fully embroidered Monogram Flowers" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Blue" ],
       "sizes": ["Default"],
       "images":[
@@ -16795,7 +16795,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The Beachview Visor offers sophisticated protection from the summer sun. It is styled in raffia-look fabric adorned with Monogram Flowers, plus natural cowhide piping around the brim for a refined crafted touch. Cool and comfortable worn by itself, it can be combined with a silk bandeau slipped through the cowhide loops for a more sophisticated effect.",
       "specifications":"@52% viscose, @48% cotton, Default, @Natural cowhide piping, @Natural cowhide loops, @Louis Vuitton signature on the headband, @Monogram @Flowers on the brim, @Elastic band in the back" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Brown" ],
       "sizes": ["Default"],
       "images":[
@@ -16818,7 +16818,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The LV Day cap elevates a casual look with superb craftsmanship. An embroidered Monogram Diamond with bouclette detailing makes for an eye-catching centerpiece, while Monogram jacquard adds a layer of richness. The youthful hat is composed of mixed materials, including breathable cotton and smooth leather.",
       "specifications":"@Ecru White, @100% cotton, @Silk lining, @Lambskin, @Monogram jacquard, @Embroidered patch, @Dry clean only" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["White" ],
       "sizes": ["Default"],
       "images":[
@@ -16841,7 +16841,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"The Gold Lagoon edition of the Tambour Street Diver Watch brings the precious touch of 18-karat pink gold to this sporty, feminine dive watch. The glossy white-lacquered dial features luminescent indexes and golden polished hands. Set on a modern white rubber strap, this casual yet sophisticated piece is the ideal complement to any off-duty outfit.",
       "specifications":"@High precision quartz movement, @Functions: hours, minutes, seconds" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Silver"],
       "sizes": ["Default"],
       "images":[
@@ -16864,7 +16864,7 @@ app.get("/all/:token", (req, res)=>{
       "brand":"Louis Vuitton",
       "description":"This Pacific White model brings a feminine touch to the versatile Tambour Street Diver range. Casual and sporty, it combines traditional dive watch functions with the colourful, creative and unconventional style unique to Louis Vuitton. Its bright colours, contrasting finish and luminescent indexes will add a modern twist to any outfit.",
       "specifications":"@High precision quartz movement, @Functions: hours, minutes, seconds" ,
-      "categories":["Accesories", "Women"],
+      "categories":["Accessories", "Women"],
       "colors": ["Silver" ],
       "sizes": ["Default"],
       "images":[
